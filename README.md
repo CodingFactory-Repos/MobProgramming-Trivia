@@ -1,5 +1,5 @@
 # Trivia Game in MobProgramming
-☕️ - Exercise to learn MobProgramming by creating a Trivial game
+👨‍👩‍👧‍👦 - Exercise to learn MobProgramming by creating a Trivial game
 
 ## Where is the file located?
 
